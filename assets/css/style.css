@@ -1,13 +1,16 @@
+/*Horiseon Style Sheet refactor */
+
+
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/*Body background color  */
 body {
     background-color: #d9dcd6;
 }
-
+/*Header control styles  */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,7 +52,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/*Hero controls */
 .hero {
     height: 800px;
     width: 100%;
@@ -85,8 +88,8 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
-.benefit-lead {
+/*Aside benefit controls  */
+.benefit-lead  {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -133,8 +136,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
-.search-engine-optimization {
+/* Placement controls*/
+.search-engine-optimization  {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -160,7 +163,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*Image controls */
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -187,7 +190,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Footer controls */
 .footer {
     padding: 30px;
     clear: both;
