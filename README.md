@@ -1,6 +1,6 @@
 # Refactor project of the Horiseon site
 
-This is an SEO-refactor project to make the site more accessible and therfore be ranked higher and more accurately by search engines and web crawlers. 
+This is an SEO-refactor project to make the site more accessible and therefore be ranked higher and more accurately by search engines and web crawlers. 
 
 ## Enhancements 
 
@@ -16,4 +16,4 @@ To view the actual page in realtime use chrome browser to go to [refactor page](
 Pull requests are welcome.  Feedback is appreciated.
 
 ## License
-[Creative Commons](license.txt)
+[MIT](License.txt)
