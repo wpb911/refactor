@@ -8,9 +8,9 @@ The .html file has been updated with alt tags to make it more accessible. Semant
 
 ## Usage
 
-When viewing the page a sample rendering looks like [refractor screenshot](./assets/images/refactor.png)
+When viewing the page a sample rendering looks like [refractor screenshot.](./assets/images/refactor.png)
 
-To view the actual page in realtime use chrome browser to go to [refactor webpage](https://wpb911.github.io/refactor/)
+To view the actual page in realtime use chrome browser to go to [refactor webpage.](https://wpb911.github.io/refactor/)
 
 ## Contributing 
 Pull requests are welcome.  Feedback is appreciated.
